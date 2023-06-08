@@ -3,24 +3,18 @@
 :speech_balloon: Bilgi notu :speech_balloon:
 - Dev-C++ IDE'sinde yapilmistir
 
-Ders1
-- aciklama
+:eye: Icindekiler :black_heart: Yapim tarihi :eye:
 
-Ders2
-- aciklama
+- calisma1 :orange_heart: 21.03.2021
 
-Ders3
-- aciklama
+- calisma2 :green_heart: 28.03.2021
 
-Ders4
-- aciklama
+- calisma3 :purple_heart: 28.03.2021
 
-Ders5
-- aciklama
+- calisma4 :heart: 04.05.2021
 
-Ders6
-- aciklama
+- calisma5 :yellow_heart: 18.04.2021
 
-Ders7
-- aciklama
+- calisma6 :blue_heart: 10.05.2021
 
+- calisma7 :brown_heart: 22.05.2023
